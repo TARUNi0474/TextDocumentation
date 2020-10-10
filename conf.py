@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Android Application Development'
+project = 'Welcome Android Application Development'
 copyright = '2020, Taruni'
 author = 'TAruni'
 
