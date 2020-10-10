@@ -9,9 +9,8 @@ Welcome to E-commerce project using Java!
 .. toctree::
    :maxdepth: 2
    :numbered:
+   Introduction.md
    
-   file1.md
-   file2.md
    
    
 
